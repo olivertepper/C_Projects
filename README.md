@@ -1,7 +1,3 @@
-Here’s a cool and informative README file template for learning CUDA and C:
-
----
-
 # **CUDA and C Learning Project**
 
 Welcome to the **CUDA and C Learning Project**! This repository is dedicated to learning and experimenting with **C** programming and **CUDA** (Compute Unified Device Architecture) to accelerate applications using GPU processing.
